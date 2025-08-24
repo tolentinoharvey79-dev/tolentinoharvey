@@ -27,4 +27,3 @@ BSIT Student at Laguna State Polytechnic University
 ---
 
  *Every expert was once a beginner.  
-https://github.com/tolentinoharvey79-dev
